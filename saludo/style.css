@@ -1,6 +1,17 @@
 
+*{
+    padding: 0px;
+    margin: 0px;
+}
 
 h1 {
     background-color: hotpink;
-    color: blueviolet;
+    color: white;
+    padding: 24px;
+    text-align: center;
+}
+
+h2 {
+    padding: 5px;
+    text-align: center;
 }
